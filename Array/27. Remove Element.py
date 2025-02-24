@@ -1,13 +1,13 @@
 
-    /*
+    """
     Time complexity : O(n)
     Space complexity : O(1)
-    */
+    """
     
     
-    /*
+    """
     Additional Notes : None
-    */
+    """
 
     
     class Solution(object):
@@ -33,9 +33,9 @@
        
     
     
-    /*
+    """
     Author : AdityaR0811
     Question Link : https://leetcode.com/problems/remove-element/
-    */
+    """
     
     
